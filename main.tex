@@ -18,6 +18,7 @@
 \usepackage[utf8x]{inputenc}
 \usepackage{xcolor}
 \usepackage{listings}
+\usepackage{rotating}
 \lstset
 {
     language=[LaTeX]TeX,
@@ -165,19 +166,25 @@
 	\begin{columns}
     	\begin{column}{6cm}
         	\begin{figure}
-    			\includegraphics[height=3cm]{pbm.JPG}
+            	\begin{turn}{270}
+    			\includegraphics[height=1.5cm]{pbm.JPG}
+                \end{turn}
             \end{figure}
-            	\begin{center}
-					\begin{tiny}
-            		Fonologia variable del español de México \\
-					Pedro Martín Butragueño \\
-					2014\\
-           			\end{tiny}
-				\end{center}
+            \begin{figure}
+            	\begin{turn}{270}
+    			\includegraphics[height=1.5cm]{hayes.JPG}
+                \end{turn}
+            \end{figure}
+            \begin{figure}
+            	\begin{turn}{270}
+    			\includegraphics[height=1.5cm]{sonoro.JPG}
+                \end{turn}
+            \end{figure}
         \end{column}
         \begin{column}{6cm}
         \begin{itemize}
-        \item placeholder
+        \item El libro de fonología está sobre la me mesa
+        \item El libro de fonología variable de México está sobre la mesa
         \end{itemize}
         \end{column}
     \end{columns}
