@@ -19,7 +19,9 @@
 \usepackage{xcolor}
 \usepackage{listings}
 \usepackage{rotating}
-\usepackage{apacite}
+\usepackage{hyperref}
+% The notocbib option keeps the word: references from automatically showing up in the table of contents.
+\usepackage[notocbib]{apacite}
 \lstset
 {
     language=[LaTeX]TeX,
@@ -43,7 +45,7 @@
 \AtBeginSection[]
 {
   \begin{frame}<beamer>
-    \frametitle{Outline}
+    \frametitle{Esbozo}
     \tableofcontents[currentsection,currentsubsection]
   \end{frame}
 }
@@ -55,7 +57,7 @@
 \end{frame}
 
 % Uncomment these lines for an automatically generated outline.
-\begin{frame}{Outline}
+\begin{frame}{Esbozo}
   \tableofcontents
 \end{frame}
 
@@ -308,8 +310,19 @@
     \end{columns}
 \end{frame}
 
+\begin{frame}
+\begin{center}
+\begin{itemize}
+\item In an academic blog post titled \textit{Why Chomsky was wrong about corpus linguistics} \citeA{wallis_why_2016} talks about why Chomsky \textbf{(but also Sinclair)} got their theories wrong.
+\begin{itemize}
+\item Chomsky concerned with I-language (linguistic competence) not E-language (linguistic performance)
+\item Siclair, on the other hand thought we could build grammar from the "bottom-up". 
+\end{itemize}
+\item Today, there are few theoretical linguistics who rely on introspection, value-judgments, and few applied linguistics lack theory in their analysis	.
+\end{itemize}
+\end{center}
+\end{frame}
 
-%Add final section on philosophy%
 
 \section{The Use Of Corpora in Other Fields: Language Teaching}
 
@@ -335,9 +348,12 @@
 
 \section{AntConc}
 	
+\section{References}
 
 \begin{frame}[fragile]{Bibliography}
 \bibliographystyle{apacite}
+
 \bibliography{Zotero}
+
 \end{frame}
 \end{document}
