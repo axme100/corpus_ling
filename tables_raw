@@ -1,0 +1,80 @@
+-----------------------------------SET UP THE TENT
+
+\begin{table}
+    \begin{tabular}{|l|l|l|}
+        \hline
+        Rank & Example & Hits \\ \hline
+        1 & SET UP THE TENT & 24 \\
+		2 & SET UP THE SYSTEM & 20 \\
+		3 & SET UP THE EQUIPMENT & 19 \\
+		4 & SET UP THE MEETING & 18 \\
+		5 & SET UP THE CAMERA & 17 \\
+		6 & SET UP THE TELESCOPE & 10 \\
+		7 & SET UP THE CONDITIONS & 9 \\
+		8 & SET UP THE COURSE & 9 \\
+		9 & SET UP THE GAME & 9 \\
+        \hline
+    \end{tabular}
+    \end{table}
+
+-----------------------------------SET IT UP
+
+\begin{table}
+    \begin{tabular}{|l|l|l|}
+        \hline
+        Rank & Example & Hits \\ \hline
+        1 & SET IT UP & 618 \\
+		2 & SET ME UP & 241 \\
+		3 & SET HIM UP & 235 \\
+		4 & SET THEM UP & 194 \\
+		5 & SET YOU UP & 185 \\
+		6 & SET HER UP & 114 \\
+		7 & SET HIMSELF UP & 110 \\
+		8 & SET US UP & 87 \\
+		9 & SET YOURSELF UP & 84 \\
+        \hline
+    \end{tabular}
+\end{table}
+
+
+-----------------------------------SET THE THING UP UP
+
+\begin{table}
+    \begin{tabular}{|l|l|l|}
+        \hline
+        Rank & Example & Hits \\ \hline
+		1 & SET THE CAMERA UP & 7 \\
+		2 & SET THE LEVEL UP & 3 \\
+		3 & SET THE COURSE UP & 3 \\
+		4 & SET THE BATHROOM UP & 2 \\
+		5 & SET THE BOAT UP & 2 \\
+		6 & SET THE CONTRAPTION UP & 2 \\
+		7 & SET THE COMPUTER UP & 2 \\
+		8 & SET THE COMPANY UP & 2 \\
+		9 & SET THE DOCTOR UP & 2 \\
+        \hline
+    \end{tabular}
+\end{table}
+
+
+--------
+
+\begin{table}
+    \begin{tabular}{|l|l|l|}
+        \hline
+        Rank & Example & Hits \\ \hline
+		1 & SET UP SOMETHING & 21 \\
+		2 & SET UP EVERYTHING & 14 \\
+		3 & SET UP YOU & * \\
+		4 & SET UP HIMSELF & * \\
+		5 & SET UP ONE & * \\
+		6 & SET UP IT & * \\
+		7 & SET UP I & * \\
+		8 & SET UP WE & * \\
+		9 & SET UP ANYTHING & * \\
+        \hline
+    \end{tabular}
+\end{table}
+
+
+
